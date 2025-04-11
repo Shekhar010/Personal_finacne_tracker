@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FinanceTracker</string>
+    <string name="Sign_in">Sign-in</string>
+    <string name="googleSignIn">Continue with Google</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="sign_in_with_google">Continue With Google</string>
+    <string name="Name">Name</string>
+    <string name="register_yourself">Register-Yourself</string>
+    <string name="Conifrmpassword">Confirm Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_out">Log-out</string>
+    <string name="balance_ask">Enter your current amount</string>
+    <string name="askamount">Enter Amount Here !!</string>
+</resources>

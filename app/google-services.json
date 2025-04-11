@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "560888573175",
+    "project_id": "fintrack-2002",
+    "storage_bucket": "fintrack-2002.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560888573175:android:0bfb045a85ee754f37f7f2",
+        "android_client_info": {
+          "package_name": "com.example.financetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560888573175-jo9v78pa51kafl3rqntom83smpv0hort.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.financetracker",
+            "certificate_hash": "e9b9d1eec9c0b083421a25f4edd9c9ad51c1c47d"
+          }
+        },
+        {
+          "client_id": "560888573175-9jp56cm450i7mqi89qlhkfv6q3errb87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4KnFap7UvscqGANm7wI8JH05DA1IcoIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560888573175-9jp56cm450i7mqi89qlhkfv6q3errb87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

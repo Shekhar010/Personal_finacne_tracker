@@ -1,0 +1,11 @@
+    <resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+        <!-- Base application theme. -->
+        <style name="Base.Theme.FinanceTracker" parent="Theme.Material3.DayNight.NoActionBar">
+            <!-- Customize your dark theme here. -->
+            <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        </style>
+        <color name="background">#121212</color>  <!-- Dark Mode Background -->
+        <color name="textColor">#FFFFFF</color>   <!-- White Text -->
+        <style name="Theme.FinanceTracker" parent="Base.Theme.FinanceTracker" />
+
+    </resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="12dp"/> <!-- Rounded Corners -->
+    <solid android:color="@color/white"/> <!-- Background Color -->
+    <padding android:left="6dp" android:right="6dp" android:top="6dp" android:bottom="6dp"/>
+
+    <shadowColor android:color="#5A000000"/> <!-- Shadow Color -->
+    <shadowDx android:value="1"/> <!-- X-Axis Offset -->
+    <shadowDy android:value="1"/> <!-- Y-Axis Offset -->
+    <shadowRadius android:value="5"/> <!-- Shadow Blur -->
+</shape>
