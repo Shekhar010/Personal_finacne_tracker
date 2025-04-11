@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-04-11 at 22 23 22_4d82fc51](https://github.com/user-attachments/assets/18a017c8-ca7a-4fcb-8b5e-fb26667bf9b0)💰 Personal Finance Tracker App
+💰 Personal Finance Tracker App
 A simple and efficient Personal Finance Tracker Android application designed to help users manage their income, spending, and savings across different categories. The app allows users to track their finances in real time with a visually intuitive dashboard, modern UI, and cloud-based storage using Firebase Firestore.
 
 This project follows MVVM Architecture and implements Data Binding, ensuring clean code separation and scalability.
